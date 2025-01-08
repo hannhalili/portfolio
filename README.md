@@ -26,10 +26,6 @@ https://mosfitness.online/dashboard/admin-dashboard
 **Description**: A website created for IWink Brow Studio to showcase services and allow clients to book appointments.
 https://koshee18.wixsite.com/iwink-brows-studio
 
-**PAS Computer Shop**
-**Description**: A POS system developed using Java in Eclipse IDE. It handles product codes and quantities and calculates the total transaction amount.
-
-
 
 ### 3. **PAS Computer Shop**
 **Description**: A POS system developed using Java in Eclipse IDE. It handles product codes and quantities and calculates the total transaction amount.
