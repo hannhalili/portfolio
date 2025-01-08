@@ -15,29 +15,23 @@ Contact Information:
 Email: hannhalili17@gmail.com
 GitHub: github.com/hannhalili
 
+
 # Projects
 ### 1. **COVID-19 Social Amelioration Program (SAP)**
 **Description**: A system developed using Eclipse IDE to analyze the impact of SAP on Filipino families during the ECQ. It collects and analyzes data on the distribution of financial aid.
-**Technologies Used**: Java, Eclipse IDE
 
 
 ### 2. **PAS Computer Shop**
 **Description**: A POS system developed using Java in Eclipse IDE. It handles product codes and quantities and calculates the total transaction amount.
-**Technologies Used**: Java, Eclipse IDE
-
-
 
 
 ### 3. **IWink Brow Studio**
 **Description**: A website created for IWink Brow Studio to showcase services and allow clients to book appointments.
-**Technologies Used**: Wix Website Builder
 **Live Website**: https://koshee18.wixsite.com/iwink-brows-studio
-
 
 
 ### 4. **GymMaster: A Comprehensive Gym Management System**
 **Description**: A gym management system for MOS Fitness Gym to handle member registration, attendance, payments, and scheduling.
-**Technologies Used**: Java, MySQL, Eclipse IDE
 **Link**: https://mosfitness.online/dashboard/admin-dashboard
 
 
