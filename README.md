@@ -13,6 +13,7 @@ Feel free to explore my portfolio to see the projects I’ve worked on, and I wo
 Contact Information:
 
 Email: hannhalili17@gmail.com
-Linkedin:
 GitHub: github.com/hannhalili
 
+# Projects
+### 1. **COVID-19 Social Amelioration Program (SAP)**
