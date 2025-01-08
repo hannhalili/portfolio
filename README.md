@@ -27,12 +27,12 @@ GitHub: github.com/hannhalili
 
 ### 3. **IWink Brow Studio**
 **Description**: A website created for IWink Brow Studio to showcase services and allow clients to book appointments.
-**Live Website**: https://koshee18.wixsite.com/iwink-brows-studio
+https://koshee18.wixsite.com/iwink-brows-studio
 
 
 ### 4. **GymMaster: A Comprehensive Gym Management System**
 **Description**: A gym management system for MOS Fitness Gym to handle member registration, attendance, payments, and scheduling.
-**Link**: https://mosfitness.online/dashboard/admin-dashboard
+https://mosfitness.online/dashboard/admin-dashboard
 
 
 
