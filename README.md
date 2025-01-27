@@ -17,22 +17,10 @@ GitHub: github.com/hannhalili
 
 
 # Projects
-### 1. **GymMaster: A Comprehensive Gym Management System**
+### **GymMaster: A Comprehensive Gym Management System**
 **Description**: A gym management system for MOS Fitness Gym to handle member registration, attendance, payments, and scheduling.
 https://mosfitness.online/dashboard/admin-dashboard
 
-
-### 2.  **IWink Brow Studio**
-**Description**: A website created for IWink Brow Studio to showcase services and allow clients to book appointments.
-https://koshee18.wixsite.com/iwink-brows-studio
-
-
-### 3. **PAS Computer Shop**
-**Description**: A POS system developed using Java in Eclipse IDE. It handles product codes and quantities and calculates the total transaction amount.
-
-
-### 4. **COVID-19 Social Amelioration Program (SAP)**
-**Description**: A system developed using Eclipse IDE to analyze the impact of SAP on Filipino families during the ECQ. It collects and analyzes data on the distribution of financial aid.
 
 
 
