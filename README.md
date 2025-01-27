@@ -2,7 +2,7 @@
 ## About Me
 Hello! My name is Hann Azel Halili, and I am a passionate Information Technology student at Jose Rizal University. I am excited to apply the knowledge and skills I have gained throughout my studies and personal projects.
 
-I specialize in software development with a focus on UI design. I am skilled in UI design using tools such as Figma and Wix, where I create interfaces and wireframes that are easy to navigate and visually appealing. Additionally, I have experience building responsive websites using HTML, CSS, and JavaScript, focusing on creating dynamic and interactive web pages.
+I specialize in software development with a focus on JavaScript. I am skilled in using tools such as Visual Studio Code, where I create interfaces and wireframes that are easy to navigate and visually appealing. Additionally, I have experience building responsive websites using HTML, CSS, and JavaScript, focusing on creating dynamic and interactive web pages.
 
 In terms of databases, I am familiar with writing basic SQL queries (e.g., SELECT, INSERT) and managing relational databases such as MySQL. For my development work, I frequently use Notepad++ as my text editor for coding and development tasks.
 
